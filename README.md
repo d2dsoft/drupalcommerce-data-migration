@@ -36,7 +36,7 @@
 - [Zen Cart](https://www.zen-cart.com/)
 
 ## Installation
-This is a service of D2d_soft. You don't need setup anything. You only need access to the product URL and run migration. The service only works in the online environment.
+This is a service of D2d-Soft. You don't need setup anything. You only need access to the product URL and run migration. The service only works in the online environment.
 
 ## License
 
