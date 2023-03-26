@@ -8,6 +8,7 @@
 - [Drupal Commerce to Drupal Commerce Migration](https://d2d-soft.com/drupal-commerce-migration/344-drupal-commerce-to-drupal-commerce-migration-service.html)
 - [HikaShop to Drupal Commerce Migration](https://d2d-soft.com/drupal-commerce-migration/469-hikashop-to-drupal-commerce-migration-service.html)
 - [J2Store to Drupal Commerce Migration](https://d2d-soft.com/drupal-commerce-migration/512-j2store-to-drupal-commerce-migration-service.html)
+- [JigoShop to Drupal Commerce Migration](https://d2d-soft.com/drupal-commerce-migration/539-jigoshop-to-drupal-commerce-migration-service.html)
 - [Loaded Commerce to Drupal Commerce Migration](https://d2d-soft.com/drupal-commerce-migration/345-loaded-to-drupal-commerce-migration-service.html)
 - [Magento to Drupal Commerce Migration](https://d2d-soft.com/drupal-commerce-migration/346-magento-to-drupal-commerce-migration-service.html)
 - [OpenCart to Drupal Commerce Migration](https://d2d-soft.com/drupal-commerce-migration/347-opencart-to-drupal-commerce-migration-service.html)
@@ -29,6 +30,7 @@
 - [Drupal Commerce](https://drupalcommerce.org/)
 - [HikaShop](https://www.hikashop.com/)
 - [J2Store](https://www.j2store.org/)
+- JigoShop
 - [Loaded Commerce](https://loadedcommerce.com/)
 - [Magento](https://magento.com/)
 - [OpenCart](https://www.opencart.com/)
