@@ -12,6 +12,7 @@
 - [J2Store to Drupal Commerce Migration](https://d2d-soft.com/drupal-commerce-migration/512-j2store-to-drupal-commerce-migration-service.html)
 - [JigoShop to Drupal Commerce Migration](https://d2d-soft.com/drupal-commerce-migration/539-jigoshop-to-drupal-commerce-migration-service.html)
 - [JoomShopping to Drupal Commerce Migration](https://d2d-soft.com/drupal-commerce-migration/589-joomshopping-to-drupal-commerce-migration-service.html)
+- [LiteCart to Drupal Commerce Migration](https://d2d-soft.com/drupal-commerce-migration/874-litecart-to-drupal-commerce-migration-service.html)
 - [Loaded Commerce to Drupal Commerce Migration](https://d2d-soft.com/drupal-commerce-migration/345-loaded-to-drupal-commerce-migration-service.html)
 - [Magento to Drupal Commerce Migration](https://d2d-soft.com/drupal-commerce-migration/346-magento-to-drupal-commerce-migration-service.html)
 - [MarketPress to Drupal Commerce Migration](https://d2d-soft.com/drupal-commerce-migration/564-marketpress-to-drupal-commerce-migration-service.html)
@@ -42,6 +43,7 @@
 - [J2Store](https://www.j2store.org/)
 - JigoShop
 - [JoomShopping](https://extensions.joomla.org/extension/joomshopping/)
+- [LiteCart](https://www.litecart.net/)
 - [Loaded Commerce](https://loadedcommerce.com/)
 - [Magento](https://magento.com/)
 - MarketPress
