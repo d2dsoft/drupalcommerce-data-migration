@@ -3,6 +3,7 @@
 
 ## Products
 - [AmeriCommerce to Drupal Commerce Migration](https://d2d-soft.com/drupal-commerce-migration/766-americommerce-to-drupal-commerce-migration-service.html)
+- [Bagisto to Drupal Commerce Migration](https://d2d-soft.com/drupal-commerce-migration/932-bagisto-to-drupal-commerce-migration-service.html)
 - [BigCommerce to Drupal Commerce Migration](https://d2d-soft.com/drupal-commerce-migration/412-bigcommerce-to-drupal-commerce-migration-service.html)
 - [CS-Cart to Drupal Commerce Migration](https://d2d-soft.com/drupal-commerce-migration/342-cs-cart-to-drupal-commerce-migration-service.html)
 - [CubeCart to Drupal Commerce Migration](https://d2d-soft.com/drupal-commerce-migration/343-cubecart-to-drupal-commerce-migration-service.html)
@@ -34,6 +35,7 @@
 
 ## Supported Platforms
 - [AmeriCommerce](https://www.americommerce.com/)
+- [Bagisto](https://bagisto.com/)
 - [BigCommerce](https://www.bigcommerce.com/)
 - [CS-Cart](https://www.cs-cart.com/)
 - [CubeCart](https://www.cubecart.com/)
