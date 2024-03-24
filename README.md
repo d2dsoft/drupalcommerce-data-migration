@@ -20,6 +20,7 @@
 - [Magento to Drupal Commerce Migration](https://d2d-soft.com/drupal-commerce-migration/346-magento-to-drupal-commerce-migration-service.html)
 - [MarketPress to Drupal Commerce Migration](https://d2d-soft.com/drupal-commerce-migration/564-marketpress-to-drupal-commerce-migration-service.html)
 - [OpenCart to Drupal Commerce Migration](https://d2d-soft.com/drupal-commerce-migration/347-opencart-to-drupal-commerce-migration-service.html)
+- [osCMax to Drupal Commerce Migration](https://d2d-soft.com/drupal-commerce-migration/1185-oscmax-to-drupal-commerce-migration-service.html)
 - [osCommerce to Drupal Commerce Migration](https://d2d-soft.com/drupal-commerce-migration/348-oscommerce-to-drupal-commerce-migration-service.html)
 - [OXID-eShop to Drupal Commerce Migration](https://d2d-soft.com/drupal-commerce-migration/349-oxid-eshop-to-drupal-commerce-migration-service.html)
 - [PrestaShop to Drupal Commerce Migration](https://d2d-soft.com/drupal-commerce-migration/350-prestashop-to-drupal-commerce-migration-service.html)
@@ -55,6 +56,7 @@
 - [Magento](https://magento.com/)
 - MarketPress
 - [OpenCart](https://www.opencart.com/)
+- osCMax
 - [osCommerce](https://www.oscommerce.com/)
 - [OXID-eShop](https://www.oxid-esales.com)
 - [PrestaShop](https://www.prestashop.com)
